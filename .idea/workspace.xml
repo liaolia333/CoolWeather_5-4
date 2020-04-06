@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6535a5be-abdb-44c2-900f-763394473aec" name="Default Changelist" comment="">
       <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/caches/build_file_checksums.ser" afterDir="false" />
@@ -48,10 +53,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="2167">
+              <caret line="180" selection-start-line="180" selection-end-line="180" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-manifest" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -88,9 +102,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -250,6 +264,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
+    </entry>
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -259,8 +277,11 @@
     </entry>
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="2167">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
