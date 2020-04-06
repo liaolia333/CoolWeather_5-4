@@ -34,6 +34,7 @@ import okhttp3.Response;
 
 
 public class ChooseAreaFragment extends Fragment {
+   //
     /**
      * 宏定义试图的不同级别
      */
