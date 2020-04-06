@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6535a5be-abdb-44c2-900f-763394473aec" name="Default Changelist" comment="" />
+    <list default="true" id="6535a5be-abdb-44c2-900f-763394473aec" name="Default Changelist" comment="">
+      <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/workspace.xml" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -66,12 +71,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java" />
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java" />
+        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="38" />
     <option name="y" value="31" />
     <option name="width" value="1004" />
@@ -84,6 +89,8 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -106,8 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +209,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="31" width="1004" height="697" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32983193" />
@@ -246,17 +250,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
