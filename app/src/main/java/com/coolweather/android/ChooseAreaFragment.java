@@ -37,11 +37,8 @@ public class ChooseAreaFragment extends Fragment {
     //更新代码上传github
     //更新代码上传github
     //更新代码上传github
-    //更新代码上传github
-    //更新代码上传github
-    //更新代码上传github
-    //更新代码上传github
-    //更新代码上传github
+   
+
     /**
      * 宏定义试图的不同级别
      */
