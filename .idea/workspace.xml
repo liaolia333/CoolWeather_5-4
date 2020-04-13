@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6535a5be-abdb-44c2-900f-763394473aec" name="Default Changelist" comment="">
-      <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="/data/workspace/myshixun/CoolWeather/.idea/workspace.xml" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="/data/workspace/myshixun/CoolWeather/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="/data/workspace/myshixun/CoolWeather/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +19,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_S_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="emulator-5554" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -32,87 +29,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/activity_weather.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/title.xml">
+        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/util/HttpUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/now.xml">
+        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/util/Utility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="99">
+              <caret line="76" column="65" lean-forward="true" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/forecast.xml">
+        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="99">
+              <caret line="102" column="79" selection-start-line="102" selection-start-column="79" selection-end-line="102" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2553#3450#0" expanded="true" />
+                <element signature="e#3449#3450#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/forecast_item.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/aqi.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="61" column="15" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/suggestion.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/choose_area.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/WeatherActivity.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-185">
+              <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2559#3301#0" expanded="true" />
+                <element signature="e#3300#3301#0" expanded="true" />
+                <element signature="e#3487#3714#0" expanded="true" />
+                <element signature="e#3713#3714#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -131,8 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java" />
-        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java" />
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/gson/Basic.java" />
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/gson/AQI.java" />
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/gson/Now.java" />
@@ -146,6 +115,10 @@
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/res/layout/aqi.xml" />
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/res/layout/suggestion.xml" />
         <option value="/data/workspace/myshixun/CoolWeather/app/src/main/res/layout/activity_weather.xml" />
+        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/util/Utility.java" />
+        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/WeatherActivity.java" />
+        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java" />
+        <option value="/data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -187,12 +160,6 @@
               <item name="CoolWeather" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="CoolWeather" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="CoolWeather" type="1abcf292:AndroidViewProjectNode" />
@@ -304,9 +271,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="31" width="1004" height="697" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32983193" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25420168" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -323,7 +291,7 @@
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3303887" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.18172269" />
+      <window_info anchor="right" id="Preview" weight="0.18172269" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -349,23 +317,6 @@
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/gson/Basic.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -411,9 +362,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/WeatherActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -474,6 +422,53 @@
     <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/res/layout/activity_weather.xml">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/util/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/util/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="76" column="65" lean-forward="true" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/WeatherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2559#3301#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="e#3487#3714#0" expanded="true" />
+            <element signature="e#3713#3714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/ChooseAreaFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="102" column="79" selection-start-line="102" selection-start-column="79" selection-end-line="102" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2553#3450#0" expanded="true" />
+            <element signature="e#3449#3450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/workspace/myshixun/CoolWeather/app/src/main/java/com/coolweather/android/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
